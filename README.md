@@ -25,6 +25,25 @@ git clone https://github.com/vslaykovsky/ai-sourcing-benchmark.git
 cd ai-sourcing-benchmark
 jupyter notebook ai-sourcing-benchmark.ipynb
 ```
-
+ 
 ## Citation
-TODO
+
+If you use this benchmark or code, please cite:
+
+> Vladimir Slaykovskiy, Maksim Zvegintsev, Yury Sakhonchyk, and Hrachik Ajamian.  
+> **“Evaluating AI Recruitment Sourcing Tools by Human Preference.”**  
+> arXiv:2504.02463 [cs.IR], 2025. https://doi.org/10.48550/arXiv.2504.02463
+
+### BibTeX
+
+```bibtex
+@article{slaykovskiy2025evaluating,
+  title         = {Evaluating AI Recruitment Sourcing Tools by Human Preference},
+  author        = {Slaykovskiy, Vladimir and Zvegintsev, Maksim and Sakhonchyk, Yury and Ajamian, Hrachik},
+  journal       = {arXiv preprint arXiv:2504.02463},
+  year          = {2025},
+  archivePrefix = {arXiv},
+  eprint        = {2504.02463},
+  primaryClass  = {cs.IR},
+  doi           = {10.48550/arXiv.2504.02463},
+}
